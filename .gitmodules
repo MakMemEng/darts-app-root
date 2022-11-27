@@ -3,5 +3,5 @@
   url = https://github.com/MakMemEng/dart-app-api
 
 [submodule "front"]
-  path = front
-  url = https://github.com/MakMemEng/dart-app-front
+	path = front
+	url = https://github.com/MakMemEng/dart-app-front
